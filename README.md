@@ -4,14 +4,16 @@
 ### Test image-
 <br>
 
-![](test_image.png)
+![](test_image.jpg)
 
 
 <br>
+
 ### Output image-
+
 <br>
 
-![](output/img1.png)
+![](output.png)
 
 <br>
 
